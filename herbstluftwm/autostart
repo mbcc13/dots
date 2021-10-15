@@ -1,6 +1,6 @@
 #!/usr/bin/bash
 
-# this is a simple config for herbstluftwm
+# This is a simple config for herbstluftwm
 
 hc() {
     herbstclient "$@"
@@ -8,9 +8,9 @@ hc() {
 
 hc emit_hook reload
 
-###############Autostart#############################
+###############Autostart###############
 
-#set wallpaper
+# set wallpaper
 feh --bg-scale ~/Pictures/snorlax.png &
 
 picom &
@@ -21,10 +21,10 @@ xsetroot -solid '#5A8E3A'
 hc keyunbind --all
 
 # keybindings
-# if you have a super key you will be much happier with Mod set to Mod4
+# If you have a super key you will be much happier with Mod set to Mod4
 #Mod=Mod1    # Use alt as the main modifier
 Mod=Mod4   # Use the super key as the main modifier
-#custom keybindings
+# custom keybindings
 myTerm=alacritty
 myBrowser=firefox
 
