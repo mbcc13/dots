@@ -1,1 +1,1 @@
-Needs [Starship] (https://starship.rs/) shell prompt 
+Needs [Starship](https://starship.rs/) shell prompt 
