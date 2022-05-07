@@ -1,0 +1,11 @@
+#+TITLE: Readme
+#+AUTHOR: mbcc
+#+DESCRIPTION: This was written in Org Mode! As you can tell by the .org...
+
+* Dots
+My mess of dotfiles.
+
+I dont really use any of these at the present moment. Sooner or later i wall get back to using and editing my configs.
+
+** Neovim
+Neovim has been moved to a differant git hosting site. I do not really use that much either, I have been trying out [[https://github.com/doomemacs/doomemacs][Doom Emacs!]]
