@@ -6,6 +6,7 @@
 #
 # Read `man 5 sway` for a complete reference.
 
+# Set font
 font pango: isoevka Small 9 
 ### Variables
 #
